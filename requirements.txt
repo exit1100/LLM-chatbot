@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+langchain
+langchain_openai
+langchain_pinecone
+langchain_core
