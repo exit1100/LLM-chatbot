@@ -1,1 +1,1 @@
-# LLM-chatbot
+# RAG-LLM-chatbot
